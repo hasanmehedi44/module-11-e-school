@@ -166,12 +166,29 @@ footer p {
 /* for responsive */
 
 @media (max-width: 600px) {
-    .ad-section {
+    .topic, .student, .test, .student2 {
       text-align: center;
-      display: inline-block;
+      margin: 5px auto;
     }
   }
 
+  @media (max-width: 600px) {
+      .top-write {
+          margin: 2px auto;
+          text-align: center;
+      }
+  } 
+  @media (max-width: 600px) {
+      .course, .link, .terms {
+        padding: 10px auto;
+        text-align: center;
+      }
+  }
+  @media (max-width: 600px) {
+      .testimonial img {
+        margin: 10px auto;
+      }
+  }
 
 
 
