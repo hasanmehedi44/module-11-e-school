@@ -16,6 +16,11 @@ padding: 5px 27px;
 color: white;
 }
 
+button:hover {
+    background-color: rgb(122, 53, 53);
+    color: white;
+}
+
 .top-banner {
     padding-top: 60px;
     padding-bottom: 30px;
@@ -33,4 +38,155 @@ span {
 .heading-part {
     background-color: #F0FFF0;;
 }
+
+
+.ad-section img {
+    width: 66px;
+    height: 85px;
+}
+
+.ad-section {
+    padding-top: 50px;
+    background: #E5E5E5;
+    padding-bottom: 50px;
+}
+
+
+.topic, .student, .test, .student2 {
+     width: 270px;
+    height: 270px;
+}
+
+.topic {
+    background: #F8FFFB;
+    border-radius: 10px;
+    border-radius: 10px;
+}
+
+.student {
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.test {
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+
+.student2 {
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+
+.card {
+    width: 500px;
+    border: none;
+}
+
+.online-course {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.online-course h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.card i {
+    width: 10px;
+    height: 10px;
+    margin-top: 20px;
+}
+.text {
+    padding: 15px;
+    margin-right: 112px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+input[type=email] {
+    width: 400px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.testimonial {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.testimonial h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+footer {
+    background-color: #282531;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 500px;
+}
+footer p, h4, a {
+    color: #F0FFF0;
+}
+
+
+footer p {
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* for responsive */
+
+@media (max-width: 600px) {
+    .ad-section {
+      text-align: center;
+      display: inline-block;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
