@@ -1,0 +1,36 @@
+.container ul li  {
+    padding: 30px;
+    font-weight: 700;
+    
+}
+
+
+button {
+
+
+background: #21B573;
+border-radius: 33px;
+border: none;
+margin-top: 33px;
+padding: 5px 27px;
+color: white;
+}
+
+.top-banner {
+    padding-top: 60px;
+    padding-bottom: 30px;
+   
+}
+.ready {
+    color: rgb(223, 16, 16);
+}
+
+span {
+    color: #21B573;
+}
+
+
+.heading-part {
+    background-color: #F0FFF0;;
+}
+
